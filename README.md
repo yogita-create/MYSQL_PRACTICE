@@ -1,2 +1,2 @@
 # MYSQL_PRACTICE
-Basic to Advance
+Basic to Advance sql 
