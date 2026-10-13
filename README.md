@@ -1,2 +1,2 @@
 # MYSQL_PRACTICE
-Basic to Advance sql 
+Basic to Advance SQL queries and subqueries to practice On real world examples.
